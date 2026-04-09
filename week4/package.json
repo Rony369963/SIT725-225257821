@@ -1,0 +1,15 @@
+{
+  "name": "sit725-week4-locate-a-socket",
+  "version": "1.0.0",
+  "description": "SIT725 Task 4.2P - Locate a Socket with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  }
+}
